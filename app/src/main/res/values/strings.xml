@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ijkTester</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="dummy_content">测试视频</string>
+    <string name="stream_url">http://1257236654.vod2.myqcloud.com/cc26eeabvodcq1257236654/d72b2edd5285890796669277602/f0.mp4?t=5df316d9&amp;us=711c9327&amp;sign=53473b47371eb03a85295d6bc6466a15</string>
+</resources>
